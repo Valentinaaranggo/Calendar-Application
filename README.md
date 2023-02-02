@@ -29,7 +29,9 @@ a simple calendar application that allows a user to save events for each hour of
 ```
 
 ## Usage
+```
  -The usage of this calendar application is to allow users to save events for each hour 9am-5pm 
+```
 ## Mock-Up
-![](C:\Users\valea\bootcamp\GT-VIRT-FSF-PT-12-2022-U-LOLC\01-Class-Content\05-Third-Party-APIs\02-Challenge\Assets\05-third-party-apis-homework-demo.gif)
+![](
 
